@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: QDrop-FTP-Receiver-Windows-1.0.0-Setup.exe
+    sha512: MTyu8W52W5kN9NXpidgYhqL7b1Q9UgB897W9RdVVg6yCMxKYVFae0K2clXR6pZlasv8fo0ImuOkpso+25qWK5Q==
+    size: 82010018
+path: QDrop-FTP-Receiver-Windows-1.0.0-Setup.exe
+sha512: MTyu8W52W5kN9NXpidgYhqL7b1Q9UgB897W9RdVVg6yCMxKYVFae0K2clXR6pZlasv8fo0ImuOkpso+25qWK5Q==
+releaseDate: '2026-04-30T09:02:50.582Z'
